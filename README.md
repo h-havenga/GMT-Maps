@@ -1,2 +1,2 @@
 # GMT_Maps
-Maps made with GMT
+A collection of maps made with Generic [Mapping Tools](http://gmt.soest.hawaii.edu/)
