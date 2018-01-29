@@ -30,3 +30,8 @@ allowed to do so. It is not the authors job to argue the law. Instead
 users are encouraged to use the products for education purposes.
 
 ########################################################################
+
+# Examples
+![temp_map](./aptmp_20180113.gif)
+![cape_map](./cape_20180113.gif)
+![cloud_map](./cloud_20180113.gif)
