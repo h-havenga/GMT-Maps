@@ -1,11 +1,0 @@
-# GMT 5 Session common arguments shelf
-BEGIN GMT 5.4.2
-B	15a0g15+tWeather 20171202 + 120h
-J	A
-JA	A25/-30/25.5
-JX	X25/0d
-R	-20/-46/60/-12r
-X	c
-Y	c
-L	3
-END
