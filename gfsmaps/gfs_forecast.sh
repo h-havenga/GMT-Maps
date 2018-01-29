@@ -5,7 +5,7 @@
              #           CDO 1.9.2             #
              # NCEP/NOAA https://goo.gl/xP3X4L #
              #   SA Shapefile: Natural Earth   #
-             #          GPL Licence            #
+             #          MIT Licence            #
              ###################################
 
 ########################################################################
@@ -17,9 +17,8 @@
 # needed and the main program used here is Generic Mapping Tools (GMT).#
 # GMT is used to perform mathematical functions on the datasets and to # 
 # draw and plot the data over the desired area. All data and code is   #
-# free to use and share, however, absolutely no part of this script    #
-# may be commercialized. If you ask someone money for this you are     #
-# breaking my terms for reusing this script.                           #
+# free to use and share, however, however, respect the license terms   #
+# and conditions.                                                      #
 #                                                                      #
 # Please be aware that this is NOT an official weather forecast.       #
 # The products created here should not be used in anyway or            #
