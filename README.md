@@ -11,5 +11,5 @@ A collection of maps made with [Generic Mapping Tools](http://gmt.soest.hawaii.e
 ![travel_map](/travelmap/travelmap_world.png)
 
 # Weather Maps
-![cape_map](/gfsmap/cape_20180113.gif)
-![cloud_map](/gfsmap/cloud_20180113.gif)
+![cape_map](/gfsmaps/cape_20180113.gif)
+![cloud_map](/gfsmaps/cloud_20180113.gif)
